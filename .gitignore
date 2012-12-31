@@ -14,7 +14,7 @@
 /log/*.log
 /tmp
 
-# Ignore DS Store 
+# Ignore DS Store mac files
 .DS_Store
 app/.DS_Store
 app/assets/.DS_Store
